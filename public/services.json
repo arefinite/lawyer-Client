@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "serviceName" : "Land Case",
+        "description": "We have a great expertise in dealing land case.",
+        "price": 20000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUy5-JSpEY3hYJlAtGQP4FTLJ6xnHYtqqtk9nhrie4R3wC1WWW62SsDNqK2j3LJtqG4Y&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "serviceName" : "Corporate/RJSC Documents",
+        "description": "We are here to help you out with dealing Corporate/RJSC Document.",
+        "price": 20000,
+        "image": "https://ak.picdn.net/shutterstock/videos/1069884034/thumb/1.jpg"
+    },
+    {
+        "id": 3,
+        "serviceName" : "Trade License",
+        "description": "We have a great expertise in dealing Trade License.",
+        "price": 20000,
+        "image": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/imageserve/1066711856/Lawyer-working-with-documents--Justice-concept-/960x0.jpg?fit=scale"
+    },
+    {
+        "id": 4,
+        "serviceName" : "Tax/Vat Issues",
+        "description": "We are here to help you out in Tax/Vat issues.",
+        "price": 20000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBXbetStfpgxD9WPQ0kSgbAW45yoK1-U7mmjCYW4g1jwO5jZxdbvPqAoEZASAdasDwtE&usqp=CAU"
+    }
+    
+]
